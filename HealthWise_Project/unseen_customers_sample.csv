@@ -1,0 +1,7 @@
+customer_id,age,sex,bmi,weight_kg,children,smoker,region,exercise_freq
+NEW01,25,female,22.0,63.5,0,no,south,5
+NEW02,38,male,31.5,92.0,2,no,north,3
+NEW03,52,male,27.0,78.0,1,yes,east,2
+NEW04,61,female,33.0,96.0,3,no,west,4
+NEW05,33,female,,95.0,1,yes,north,4
+NEW06,47,male,24.0,70.0,4,no,south,6

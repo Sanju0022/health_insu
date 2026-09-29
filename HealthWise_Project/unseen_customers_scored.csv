@@ -1,0 +1,7 @@
+customer_id,age,sex,bmi,weight_kg,children,smoker,region,exercise_freq,predicted_tier,risk_points,expected_charge,quoted_premium
+NEW01,25,female,22.0,63.5,0,no,south,5,Low,0,6258,7197
+NEW02,38,male,31.5,92.0,2,no,north,3,Medium,1,15367,17672
+NEW03,52,male,27.0,78.0,1,yes,east,2,High,3,45831,52706
+NEW04,61,female,33.0,96.0,3,no,west,4,High,3,43591,50130
+NEW05,33,female,,95.0,1,yes,north,4,High,3,44945,51686
+NEW06,47,male,24.0,70.0,4,no,south,6,Medium,1,15541,17872
